@@ -23,7 +23,7 @@
 - 👯 Looking to collaborate on **Signal Processing and Machine Learning projects**
 - 🤝 Seeking help with **CNN/Transformer-based multimodal deep learning in MATLAB**
 - 📍 Based in **Bengaluru, India**
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d6b1b7b2bfe5e1e0e7ee96b1bbb7bfbaf8b5b9bb">[email&#160;protected]</a>**
+- 📫 Reach me at **gadi37681@gmail.com**
 - ⚡ Fun fact: *Decent badminton & soccer player. Also a PC gamer 😁*
 
 ---
