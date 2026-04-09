@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/LalithAdit28675" target="blank"><img src="https://img.shields.io/twitter/follow/LalithAdit28675?logo=twitter&style=for-the-badge" alt="LalithAdit28675" /></a> </p>
 
-- 🔭 I'm currently working on **SAR guided Deep Learning Framework or Multispectral Super-Resolution and 3D-Terrain Reconstruction**
+- 🔭 I'm currently working on **SAR guided Deep Learning Framework for Multispectral Super-Resolution and 3D-Terrain Reconstruction**
 
 - 🌱 I'm currently learning **Linux, Machine Learning techniques, Image Processing, VLSI**
 
