@@ -17,7 +17,7 @@
 
 > *B.Tech Electronics & Communication Engineering · Amrita Vishwa Vidyapeetham, Coimbatore · Batch S4-ECE-B1*
 
-- 🔭 Currently building a **SAR-guided Deep Learning Framework for Multispectral Super-Resolution & 3D Terrain Reconstruction** — using CNNs/Transformers to fuse SAR backscatter with optical reflectance, InSAR-derived DEMs, and produce spatially enhanced 3D multispectral outputs.
+- 🔭 Currently building a **SAR-guided Deep Learning Framework for Multispectral Super-Resolution & 3D Terrain Reconstruction** — using CNNs/Transformers to fuse SAR backscatter with optical reflectance, InSAR-derived DEMs, and produce spatially enhanced 3D multispectral outputs. And working on a method to covert the HDF5 file format to a .SAFE format for processing NISAR data on ESA SNAP tool.
 - 🌱 Actively learning **Linux, Machine Learning, Image Processing, VLSI & GATE prep**
 - 🎯 Long-term goal: **GATE → M.Tech (IIT/IISc, Remote Sensing / Radar) → ISRO**
 - 👯 Looking to collaborate on **Signal Processing and Machine Learning projects**
